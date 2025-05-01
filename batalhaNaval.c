@@ -24,7 +24,7 @@ printf("1. Diagonal 1\n");
 printf("2. Diagonal 2\n");
 printf("3. Duas diagonais\n");
 printf("4. Dois navios\n");
-printf("5. Formas Geometricas");
+printf("5. Formas Geometrica\n");
 scanf("%d", &menu);
 
 switch (menu)
